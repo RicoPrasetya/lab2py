@@ -1,1 +1,5 @@
-“# latihan1”
+print("Nama : Rico Prasetya")
+print("NIM : 312210425")
+print()
+print("Hello")
+print("Saya Sedang Belajar Python")
