@@ -1,6 +1,7 @@
 # Latihan Phyton
 ## Tutorial Penggunaan Phyton
 ### Download Phyton
+
 Download installer python di situs https://www.python.org/download. Di sini kita menggunakan python versi 3.4. Bila Anda bingung yang mana linknya, silahkan klik saja link ini:https://www.python.org/downloads/release/python-344/. Silahkan pilih apakah Anda mau menggunakan versi 32 bit, atau 64 bit. Di sini kita gunakan versi 32 bit.
 
 ![Gambar_1](Screenshot/ss1.png)
@@ -32,3 +33,21 @@ Bila sudah selesai, akan keluar kotak dialog sebagai berikut. Hal ini menandakan
 Demikianlah proses instalasi Python di Windows. Python sudah siap digunakan untuk membuat program yang Anda inginkan.
 
 ### Menampilkan kalimat
+
+• Menampilkan tulisan “Hello” dilayar
+• Menampilkan tulisan “Saya sedang belajar python” dilayar
+
+![Gambar_8](Screenshot/ss8.png)
+
+### Menjumlahkan dua buah bilangan menggunakan variabel a dan b
+
+• Mendefinisikan variable a dengan nilai 8
+• Mendefinisikan variable b dengan nilai 6
+• Mencetak nilai variable a dan b
+• Mencetak hasil penjumlahan a+b
+
+![Gambar_9](Screenshot/ss9.png)
+
+### Menjalankan IDLE
+
+![Gambar_10](Screenshot/ss10.png)
